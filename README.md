@@ -1,4 +1,4 @@
-![CI Status](https://github.com/RankoR/RidangoTest/actions/workflows/main.yml/badge.svg)
+[![CI Status](https://github.com/RankoR/RidangoTest/actions/workflows/main.yml/badge.svg)](https://github.com/RankoR/RidangoTest/actions)
 
 # Simple test task implementation
 
