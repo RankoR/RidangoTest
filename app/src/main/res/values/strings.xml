@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Tickets App</string>
+
+    <string name="error_unknown">Oops, got an error.\nPlease try again</string>
+    <string name="error_network_failure">Oops, got a network failure.\nPlease try again a bit later.</string>
+    <string name="error_server_failure">Oops, got a server failure.\nWe\'re already fixing it, please try again a bit later.</string>
+
+    <string name="title_btn_retry">Retry</string>
+
+    <string name="hint_product_name">Product name</string>
+    <string name="hint_product_price">Product price</string>
+    <string name="title_btn_submit">Submit</string>
+</resources>

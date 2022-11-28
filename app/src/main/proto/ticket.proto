@@ -1,0 +1,8 @@
+syntax = "proto3";
+package tickets;
+
+message Ticket {
+  uint32 id = 1;
+  string productName = 2;
+  uint32 price = 3;
+}

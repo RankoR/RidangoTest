@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="contentLayout" type="id"/>
+    <item name="loaderLayout" type="id"/>
+    <item name="errorLayout" type="id"/>
+    <item name="retryBtn" type="id"/>
+    <item name="errorTextTv" type="id"/>
+</resources>
