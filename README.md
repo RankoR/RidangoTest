@@ -32,6 +32,10 @@ Fake web server is implemented in [WebServer.kt](/app/src/main/java/page/smirnov
 
 There is no `required` annotation for the [ticket.proto](/app/src/main/proto/ticket.proto) as it was removed in the version of Protobuf I use.
 
+#### No docs
+
+Unfortunately I don't have time to write KDocs for the code. Just believe me that I do it when it's necessary :)
+
 #### Tests
 
 Pretty much all of the business logic is covered by tests:
