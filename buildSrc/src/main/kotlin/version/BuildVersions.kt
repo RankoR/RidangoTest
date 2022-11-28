@@ -10,7 +10,7 @@ import java.util.Locale
 
 object BuildVersions {
     const val COMPILE_SDK_VERSION = 33
-    const val MIN_SDK_VERSION = 31
+    const val MIN_SDK_VERSION = 23
     const val TARGET_SDK_VERSION = 33
 
     private const val VERSION_MAJOR = 1
